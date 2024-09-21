@@ -1,0 +1,228 @@
+{
+  "OSType": "Windows_NT",
+  "Platform": "win32",
+  "RAM": 8193499136,
+  "USEDRAM": 6889639936,
+  "CPU": [
+    {
+      "model": "12th Gen Intel(R) Core(TM) i7-12700H",
+      "speed": 2688,
+      "times": {
+        "user": 405296,
+        "nice": 0,
+        "sys": 429984,
+        "idle": 65894515,
+        "irq": 42187
+      }
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i7-12700H",
+      "speed": 2688,
+      "times": {
+        "user": 108093,
+        "nice": 0,
+        "sys": 91390,
+        "idle": 66530312,
+        "irq": 3296
+      }
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i7-12700H",
+      "speed": 2688,
+      "times": {
+        "user": 565218,
+        "nice": 0,
+        "sys": 263375,
+        "idle": 65901046,
+        "irq": 12234
+      }
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i7-12700H",
+      "speed": 2688,
+      "times": {
+        "user": 192734,
+        "nice": 0,
+        "sys": 133828,
+        "idle": 66403078,
+        "irq": 13156
+      }
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i7-12700H",
+      "speed": 2688,
+      "times": {
+        "user": 2681984,
+        "nice": 0,
+        "sys": 2283968,
+        "idle": 61763671,
+        "irq": 195687
+      }
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i7-12700H",
+      "speed": 2688,
+      "times": {
+        "user": 1466203,
+        "nice": 0,
+        "sys": 1083843,
+        "idle": 64179609,
+        "irq": 30703
+      }
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i7-12700H",
+      "speed": 2688,
+      "times": {
+        "user": 335750,
+        "nice": 0,
+        "sys": 233406,
+        "idle": 66160484,
+        "irq": 5640
+      }
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i7-12700H",
+      "speed": 2688,
+      "times": {
+        "user": 114265,
+        "nice": 0,
+        "sys": 99921,
+        "idle": 66515421,
+        "irq": 7109
+      }
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i7-12700H",
+      "speed": 2688,
+      "times": {
+        "user": 2510750,
+        "nice": 0,
+        "sys": 1804171,
+        "idle": 62414703,
+        "irq": 139156
+      }
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i7-12700H",
+      "speed": 2688,
+      "times": {
+        "user": 1163687,
+        "nice": 0,
+        "sys": 802281,
+        "idle": 64763656,
+        "irq": 19500
+      }
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i7-12700H",
+      "speed": 2688,
+      "times": {
+        "user": 257437,
+        "nice": 0,
+        "sys": 155328,
+        "idle": 66316812,
+        "irq": 3828
+      }
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i7-12700H",
+      "speed": 2688,
+      "times": {
+        "user": 80875,
+        "nice": 0,
+        "sys": 63171,
+        "idle": 66585562,
+        "irq": 1890
+      }
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i7-12700H",
+      "speed": 2688,
+      "times": {
+        "user": 357765,
+        "nice": 0,
+        "sys": 105500,
+        "idle": 66266328,
+        "irq": 3281
+      }
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i7-12700H",
+      "speed": 2688,
+      "times": {
+        "user": 236390,
+        "nice": 0,
+        "sys": 75125,
+        "idle": 66418093,
+        "irq": 2078
+      }
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i7-12700H",
+      "speed": 2688,
+      "times": {
+        "user": 174718,
+        "nice": 0,
+        "sys": 69218,
+        "idle": 66485640,
+        "irq": 2015
+      }
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i7-12700H",
+      "speed": 2688,
+      "times": {
+        "user": 166218,
+        "nice": 0,
+        "sys": 59703,
+        "idle": 66503656,
+        "irq": 1796
+      }
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i7-12700H",
+      "speed": 2688,
+      "times": {
+        "user": 349921,
+        "nice": 0,
+        "sys": 127750,
+        "idle": 66251890,
+        "irq": 3312
+      }
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i7-12700H",
+      "speed": 2688,
+      "times": {
+        "user": 236281,
+        "nice": 0,
+        "sys": 85546,
+        "idle": 66407750,
+        "irq": 2265
+      }
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i7-12700H",
+      "speed": 2688,
+      "times": {
+        "user": 215359,
+        "nice": 0,
+        "sys": 84312,
+        "idle": 66429890,
+        "irq": 1828
+      }
+    },
+    {
+      "model": "12th Gen Intel(R) Core(TM) i7-12700H",
+      "speed": 2688,
+      "times": {
+        "user": 193937,
+        "nice": 0,
+        "sys": 85140,
+        "idle": 66450484,
+        "irq": 1890
+      }
+    }
+  ]
+}
